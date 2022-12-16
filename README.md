@@ -16,3 +16,4 @@
 [Black Jack](./black-jack/)                         | Easy      |Nov 11,2022    |
 [Little Sister's Essay](./little-sisters-essay/)                         | Easy      |Nov 12,2022    |
 [Little Sister's Vocabulary](./little-sisters-vocab/)                         | Easy      |Nov 13,2022    |
+[Card Games](./card-games/)                         | Easy      |Nov 14,2022    |
