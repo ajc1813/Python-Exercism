@@ -26,3 +26,4 @@
 [Ellen's Alien Game](./ellens-alien-game/)                         | Easy      |Nov 21,2022    |
 [Reverse String](./reverse-string/)                         | Easy      |Nov 22,2022    |
 [Resistor Color](./resistor-color/)                         | Easy      |Nov 23,2022    |
+[Two Fer](./two-fer/)                         | Easy      |Nov 24,2022    |
