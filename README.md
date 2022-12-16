@@ -44,3 +44,4 @@
 [Difference of Squares](./difference-of-squares/)                         | Easy      |Dec 9,2022    |
 [Flatten Array](./flatten-array/)                         | Easy      |Dec 10,2022    |
 [Perfect Numbers](./perfect-numbers/)                         | Easy      |Dec 11,2022    |
+[Gigasecond](./gigasecond/)                         | Easy      |Dec 12,2022    |
