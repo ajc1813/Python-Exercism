@@ -42,3 +42,4 @@
 [Sum of Multiples](./sum-of-multiples/)                         | Easy      |Dec 7,2022    |
 [Anagram](./anagram/)                         | Easy      |Dec 8,2022    |
 [Difference of Squares](./difference-of-squares/)                         | Easy      |Dec 9,2022    |
+[Flatten Array](./flatten-array/)                         | Easy      |Dec 10,2022    |
