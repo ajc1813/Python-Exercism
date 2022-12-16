@@ -14,3 +14,4 @@
 [Currency Exchange](./currency-exchange/)                         | Easy      |Nov 9,2022    |
 [Meltdown Mitigation](./meltdown-mitigation/)                         | Easy      |Nov 10,2022    |
 [Black Jack](./black-jack/)                         | Easy      |Nov 11,2022    |
+[Little Sister's Essay](./little-sisters-essay/)                         | Easy      |Nov 12,2022    |
