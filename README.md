@@ -30,3 +30,4 @@
 [Leap](./leap/)                         | Easy      |Nov 25,2022    |
 [Resistor Color Duo](./resistor-color-duo/)                         | Easy      |Nov 26,2022    |
 [Pangram](./pangram/)                         | Easy      |Nov 27,2022    |
+[Isogram](./isogram/)                         | Easy      |Nov 28,2022    |
