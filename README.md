@@ -13,3 +13,4 @@
 [Ghost Gobble Arcade Game](./ghost-gobble-arcade-game/)                         | Easy      |Nov 8,2022    |
 [Currency Exchange](./currency-exchange/)                         | Easy      |Nov 9,2022    |
 [Meltdown Mitigation](./meltdown-mitigation/)                         | Easy      |Nov 10,2022    |
+[Black Jack](./black-jack/)                         | Easy      |Nov 11,2022    |
