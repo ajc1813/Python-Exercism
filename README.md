@@ -32,3 +32,4 @@
 [Pangram](./pangram/)                         | Easy      |Nov 27,2022    |
 [Isogram](./isogram/)                         | Easy      |Nov 28,2022    |
 [Grains](./grains/)                         | Easy      |Nov 29,2022    |
+[Hamming](./hamming/)                         | Easy      |Nov 30,2022    |
