@@ -18,3 +18,4 @@
 [Little Sister's Vocabulary](./little-sisters-vocab/)                         | Easy      |Nov 13,2022    |
 [Card Games](./card-games/)                         | Easy      |Nov 14,2022    |
 [Chaitana's Colossal Coaster](./chaitanas-colossal-coaster/)                         | Easy      |Nov 15,2022    |
+[Making the Grade](./making-the-grade/)                         | Easy      |Nov 16,2022    |
