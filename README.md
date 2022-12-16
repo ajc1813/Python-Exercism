@@ -1,2 +1,10 @@
 # Python-Exercism
-Solution of exercises of Python Track in exercism
+ ![Alt](https://upload.wikimedia.org/wikipedia/commons/c/c1/Exercism-logo.svg)
+### [exercism.org](https://exercism.org/)
+
+
+
+##### General status of exercism problems.
+
+| Problem Name                        | Level    |  Date            |
+| ----------------------------------- | :------: |  :-----------:   |
