@@ -28,3 +28,4 @@
 [Resistor Color](./resistor-color/)                         | Easy      |Nov 23,2022    |
 [Two Fer](./two-fer/)                         | Easy      |Nov 24,2022    |
 [Leap](./leap/)                         | Easy      |Nov 25,2022    |
+[Resistor Color Duo](./resistor-color-duo/)                         | Easy      |Nov 26,2022    |
