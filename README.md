@@ -22,3 +22,4 @@
 [Tisbury Treasure Hunt](./tisbury-treasure-hunt/)                         | Easy      |Nov 17,2022    |
 [Inventory Management](./inventory-management/)                         | Easy      |Nov 18,2022    |
 [Locomotive Engineer](./locomotive-engineer/)                         | Easy      |Nov 19,2022    |
+[Cater Waiter](./cater-waiter/)                         | Easy      |Nov 20,2022    |
