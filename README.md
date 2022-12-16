@@ -9,3 +9,4 @@
 | Problem Name                        | Level    |  Date            |
 | ----------------------------------- | :------: |  :-----------:   |
 [Hello World](./hello-world/)                         | Easy      |Nov 6,2022    |
+[Guido's Gorgeous Lasagna](./guidos-gorgeous-lasagna/)                         | Easy      |Nov 7,2022    |
