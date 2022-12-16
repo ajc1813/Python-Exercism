@@ -20,3 +20,4 @@
 [Chaitana's Colossal Coaster](./chaitanas-colossal-coaster/)                         | Easy      |Nov 15,2022    |
 [Making the Grade](./making-the-grade/)                         | Easy      |Nov 16,2022    |
 [Tisbury Treasure Hunt](./tisbury-treasure-hunt/)                         | Easy      |Nov 17,2022    |
+[Inventory Management](./inventory-management/)                         | Easy      |Nov 18,2022    |
