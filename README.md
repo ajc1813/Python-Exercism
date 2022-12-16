@@ -34,3 +34,4 @@
 [Grains](./grains/)                         | Easy      |Nov 29,2022    |
 [Hamming](./hamming/)                         | Easy      |Nov 30,2022    |
 [Bob](./bob/)                         | Medium      |Dec 1,2022    |
+[RNA Transcription](./rna-transcription/)                         | Medium      |Dec 2,2022    |
