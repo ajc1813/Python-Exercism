@@ -40,3 +40,4 @@
 [Darts](./darts/)                         | Medium      |Dec 5,2022    |
 [Raindrops](./raindrops/)                         | Medium      |Dec 6,2022    |
 [Sum of Multiples](./sum-of-multiples/)                         | Easy      |Dec 7,2022    |
+[Anagram](./anagram/)                         | Easy      |Dec 8,2022    |
