@@ -45,3 +45,4 @@
 [Flatten Array](./flatten-array/)                         | Easy      |Dec 10,2022    |
 [Perfect Numbers](./perfect-numbers/)                         | Easy      |Dec 11,2022    |
 [Gigasecond](./gigasecond/)                         | Easy      |Dec 12,2022    |
+[ISBN Verifier](./isbn-verifier/)                         | Easy      |Dec 17,2022    |
