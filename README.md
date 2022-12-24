@@ -47,5 +47,5 @@
 [Gigasecond](./gigasecond/)                         | Easy      |Dec 12,2022    |
 [ISBN Verifier](./isbn-verifier/)                         | Easy      |Dec 13,2022    |
 [Space Age](./space-age/)                         | Easy      |Dec 14,2022    |
-[Collatz Conjecture](.//)                         | Easy      |Dec 15,2022    |
+[Collatz Conjecture](./collatz-conjecture/)                         | Easy      |Dec 15,2022    |
 [Secret Handshake](./secret-handshake/)                         | Easy      |Dec 16,2022    |
