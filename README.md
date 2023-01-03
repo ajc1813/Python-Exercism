@@ -49,3 +49,4 @@
 [Space Age](./space-age/)                         | Easy      |Dec 14,2022    |
 [Collatz Conjecture](./collatz-conjecture/)                         | Easy      |Dec 15,2022    |
 [Secret Handshake](./secret-handshake/)                         | Easy      |Dec 16,2022    |
+[Wordy](./wordy/)                         | Easy      |Dec 17,2022    |
