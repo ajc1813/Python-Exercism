@@ -50,3 +50,4 @@
 [Collatz Conjecture](./collatz-conjecture/)                         | Easy      |Dec 15,2022    |
 [Secret Handshake](./secret-handshake/)                         | Easy      |Dec 16,2022    |
 [Wordy](./wordy/)                         | Easy      |Dec 17,2022    |
+[Triangle](./triangle/)                         | Easy      |Dec 18,2022    |
