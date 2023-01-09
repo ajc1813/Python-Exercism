@@ -51,3 +51,4 @@
 [Secret Handshake](./secret-handshake/)                         | Easy      |Dec 16,2022    |
 [Wordy](./wordy/)                         | Easy      |Dec 17,2022    |
 [Triangle](./triangle/)                         | Easy      |Dec 18,2022    |
+[House](./house/)                         | Easy      |Dec 19,2022    |
