@@ -52,3 +52,4 @@
 [Wordy](./wordy/)                         | Easy      |Dec 17,2022    |
 [Triangle](./triangle/)                         | Easy      |Dec 18,2022    |
 [House](./house/)                         | Easy      |Dec 19,2022    |
+[Rotational Cipher](./rotational-cipher/)                         | Easy      |Dec 20,2022    |
