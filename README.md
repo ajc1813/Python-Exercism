@@ -54,3 +54,4 @@
 [House](./house/)                         | Easy      |Dec 19,2022    |
 [Rotational Cipher](./rotational-cipher/)                         | Easy      |Dec 20,2022    |
 [Binary Search](./binary-search/)                         | Easy      |Dec 21,2022    |
+[List Ops](./list-ops/)                         | Easy      |Dec 22,2022    |
