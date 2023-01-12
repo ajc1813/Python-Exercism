@@ -57,3 +57,4 @@
 [List Ops](./list-ops/)                         | Easy      |Dec 22,2022    |
 [Acronym](./acronym/)                         | Easy      |Dec 23,2022    |
 [Pig Latin](./pig-latin/)                         | Easy      |Dec 24,2022    |
+[Protein Translation](./protein-translation/)                         | Easy      |Dec 25,2022    |
