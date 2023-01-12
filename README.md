@@ -56,3 +56,4 @@
 [Binary Search](./binary-search/)                         | Easy      |Dec 21,2022    |
 [List Ops](./list-ops/)                         | Easy      |Dec 22,2022    |
 [Acronym](./acronym/)                         | Easy      |Dec 23,2022    |
+[Pig Latin](./pig-latin/)                         | Easy      |Dec 24,2022    |
