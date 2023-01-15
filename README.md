@@ -58,3 +58,4 @@
 [Acronym](./acronym/)                         | Easy      |Dec 23,2022    |
 [Pig Latin](./pig-latin/)                         | Easy      |Dec 24,2022    |
 [Protein Translation](./protein-translation/)                         | Easy      |Dec 25,2022    |
+[Square Root](./square-root/)                         | Easy      |Dec 26,2022    |
