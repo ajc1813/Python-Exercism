@@ -60,3 +60,4 @@
 [Protein Translation](./protein-translation/)                         | Easy      |Dec 25,2022    |
 [Square Root](./square-root/)                         | Easy      |Dec 26,2022    |
 [Scrabble Score](./scrabble-score/)                         | Easy      |Dec 27,2022    |
+[Atbash Cipher](./atbash-cipher/)                         | Easy      |Dec 28,2022    |
