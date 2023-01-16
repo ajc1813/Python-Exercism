@@ -61,3 +61,4 @@
 [Square Root](./square-root/)                         | Easy      |Dec 26,2022    |
 [Scrabble Score](./scrabble-score/)                         | Easy      |Dec 27,2022    |
 [Atbash Cipher](./atbash-cipher/)                         | Easy      |Dec 28,2022    |
+[Resistor Color Trio](./resistor-color-trio/)                         | Easy      |Dec 29,2022    |
