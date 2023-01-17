@@ -62,3 +62,4 @@
 [Scrabble Score](./scrabble-score/)                         | Easy      |Dec 27,2022    |
 [Atbash Cipher](./atbash-cipher/)                         | Easy      |Dec 28,2022    |
 [Resistor Color Trio](./resistor-color-trio/)                         | Easy      |Dec 29,2022    |
+[Word Count](./word-count/)                         | Easy      |Dec 30,2022    |
