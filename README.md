@@ -65,3 +65,4 @@
 [Word Count](./word-count/)                         | Easy      |Dec 30,2022    |
 [Proverb](./proverb/)                         | Easy      |Dec 31,2022    |
 [Yacht](./yacht/)                         | Easy      |Jan 1,2022    |
+[Twelve Days](./twelve-days/)                         | Easy      |Jan 2,2022    |
