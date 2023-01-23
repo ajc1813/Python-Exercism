@@ -66,3 +66,4 @@
 [Proverb](./proverb/)                         | Easy      |Dec 31,2022    |
 [Yacht](./yacht/)                         | Easy      |Jan 1,2022    |
 [Twelve Days](./twelve-days/)                         | Easy      |Jan 2,2022    |
+[Series](./series/)                         | Easy      |Jan 3,2022    |
