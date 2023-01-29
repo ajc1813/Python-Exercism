@@ -65,7 +65,8 @@
 [Word Count](./word-count/)                         | Easy      |Dec 30,2022    |
 [Proverb](./proverb/)                         | Easy      |Dec 31,2022    |
 [Yacht](./yacht/)                         | Easy      |Jan 1,2022    |
-[Robot Name](.//)                         | Easy      |Jan 2,2022    |
+[Robot Name](.//)                         | Easy      |Jan 2,20    |
 [Nth Prime](./nth-prime/)                         | Easy      |Jan 3,2022    |
-[Twelve Days](./twelve-days/)                         | Easy      |Jan 4,2022    |
-[Series](./series/)                         | Easy      |Jan 5,2022    |
+[Twelve Days](./twelve-days/)                         | Easy      |Jan 4,2022    | 
+[Series](./series/)                         | Easy      |Jan 5,2022    |  
+[Phone Number](.//)                         | Easy      |Jan 5,20    | 
