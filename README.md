@@ -69,4 +69,5 @@
 [Nth Prime](./nth-prime/)                         | Easy      |Jan 3,2022    |
 [Twelve Days](./twelve-days/)                         | Easy      |Jan 4,2022    | 
 [Series](./series/)                         | Easy      |Jan 5,2022    |  
-[Phone Number](./phone-number/)                         | Easy      |Jan 5,2022    | 
+[Phone Number](./phone-number/)                         | Easy      |Jan 6,2022    | 
+[Matching Brackets](./matching-brackets/)                         | Easy      |Jan 7,2022    | 
