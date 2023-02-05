@@ -71,3 +71,4 @@
 [Series](./series/)                         | Easy      |Jan 5,2022    |  
 [Phone Number](./phone-number/)                         | Easy      |Jan 6,2022    | 
 [Matching Brackets](./matching-brackets/)                         | Easy      |Jan 7,2022    | 
+[Say](./say/)                         | Easy      |Jan 8,2022    | 
