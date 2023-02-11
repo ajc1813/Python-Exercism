@@ -72,3 +72,4 @@
 [Phone Number](./phone-number/)                         | Easy      |Jan 6,2022    | 
 [Matching Brackets](./matching-brackets/)                         | Easy      |Jan 7,2022    | 
 [Say](./say/)                         | Easy      |Jan 8,2022    | 
+[Queen Attack](./queen-attack/)                         | Easy      |Jan 9,2022    | 
