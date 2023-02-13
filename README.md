@@ -74,3 +74,4 @@
 [Say](./say/)                         | Easy      |Jan 8,2022    | 
 [Queen Attack](./queen-attack/)                         | Easy      |Jan 9,2022    | 
 [Run-Length Encoding](./run-length-encoding/)                         | Easy      |Jan 10,2022    | 
+[Luhn](./luhn/)                         | Easy      |Jan 11,2022    | 
