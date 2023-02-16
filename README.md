@@ -77,3 +77,4 @@
 [Luhn](./luhn/)                         | Easy      |Jan 11,2022    | 
 [Sublist](./sublist/)                         | Easy      |Jan 12,2022    | 
 [Diamond](./diamond/)                         | Easy      |Jan 13,2022    | 
+[Transpose](./transpose/)                         | Easy      |Jan 14,2022    | 
