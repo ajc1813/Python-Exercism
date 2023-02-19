@@ -78,3 +78,4 @@
 [Sublist](./sublist/)                         | Easy      |Jan 12,2022    | 
 [Diamond](./diamond/)                         | Easy      |Jan 13,2022    | 
 [Transpose](./transpose/)                         | Easy      |Jan 14,2022    | 
+[Prime Factors](./prime-factors/)                         | Easy      |Jan 15,2022    | 
