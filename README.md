@@ -64,20 +64,20 @@
 [Resistor Color Trio](./resistor-color-trio/)                         | Easy      |Dec 29,2022    |
 [Word Count](./word-count/)                         | Easy      |Dec 30,2022    |
 [Proverb](./proverb/)                         | Easy      |Dec 31,2022    |
-[Yacht](./yacht/)                         | Easy      |Jan 1,2022    |
-[Robot Name](./robot-name/)                         | Easy      |Jan 2,2022    |
-[Nth Prime](./nth-prime/)                         | Easy      |Jan 3,2022    |
-[Twelve Days](./twelve-days/)                         | Easy      |Jan 4,2022    | 
-[Series](./series/)                         | Easy      |Jan 5,2022    |  
-[Phone Number](./phone-number/)                         | Easy      |Jan 6,2022    | 
-[Matching Brackets](./matching-brackets/)                         | Easy      |Jan 7,2022    | 
-[Say](./say/)                         | Easy      |Jan 8,2022    | 
-[Queen Attack](./queen-attack/)                         | Easy      |Jan 9,2022    | 
-[Run-Length Encoding](./run-length-encoding/)                         | Easy      |Jan 10,2022    | 
-[Luhn](./luhn/)                         | Easy      |Jan 11,2022    | 
-[Sublist](./sublist/)                         | Easy      |Jan 12,2022    | 
-[Diamond](./diamond/)                         | Easy      |Jan 13,2022    | 
-[Transpose](./transpose/)                         | Easy      |Jan 14,2022    | 
-[Prime Factors](./prime-factors/)                         | Easy      |Jan 15,2022    | 
+[Yacht](./yacht/)                         | Easy      |Jan 1,2023    |
+[Robot Name](./robot-name/)                         | Easy      |Jan 2,2023    |
+[Nth Prime](./nth-prime/)                         | Easy      |Jan 3,2023    |
+[Twelve Days](./twelve-days/)                         | Easy      |Jan 4,2023    | 
+[Series](./series/)                         | Easy      |Jan 5,2023    |  
+[Phone Number](./phone-number/)                         | Easy      |Jan 6,2023    | 
+[Matching Brackets](./matching-brackets/)                         | Easy      |Jan 7,2023    | 
+[Say](./say/)                         | Easy      |Jan 8,2023    | 
+[Queen Attack](./queen-attack/)                         | Easy      |Jan 9,2023    | 
+[Run-Length Encoding](./run-length-encoding/)                         | Easy      |Jan 10,2023    | 
+[Luhn](./luhn/)                         | Easy      |Jan 11,2023    | 
+[Sublist](./sublist/)                         | Easy      |Jan 12,2023    | 
+[Diamond](./diamond/)                         | Easy      |Jan 13,2023    | 
+[Transpose](./transpose/)                         | Easy      |Jan 14,2023    | 
+[Prime Factors](./prime-factors/)                         | Easy      |Jan 15,2023    | 
 [D&D Character](.//)                         | Easy      |Jan 16,20    |
-[Roman Numerals](./roman-numerals/)                         | Easy      |Jan 17,20    |
+[Roman Numerals](./roman-numerals/)                         | Easy      |Jan 17,2023    |
