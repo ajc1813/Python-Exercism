@@ -83,3 +83,4 @@
 [Roman Numerals](./roman-numerals/)                         | Easy      |Jan 17,2023    |
 [D&D Character](./dnd-character/)                         | Easy      |Jan 18,2023    |
 [Simple Cipher](.//)                         | Easy      |Jan 19,20    |
+[Matrix](./matrix/)                         | Easy      |Jan 20,2023    |
