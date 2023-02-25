@@ -84,3 +84,4 @@
 [D&D Character](./dnd-character/)                         | Easy      |Jan 18,2023    |
 [Simple Cipher](.//)                         | Easy      |Jan 19,20    |
 [Matrix](./matrix/)                         | Easy      |Jan 20,2023    |
+[Allergies](./allergies/)                         | Easy      |Jan 21,2023    |
