@@ -82,3 +82,4 @@
 [D&D Character](.//)                         | Easy      |Jan 16,20    |
 [Roman Numerals](./roman-numerals/)                         | Easy      |Jan 17,2023    |
 [D&D Character](./dnd-character/)                         | Easy      |Jan 18,2023    |
+[Simple Cipher](.//)                         | Easy      |Jan 19,20    |
