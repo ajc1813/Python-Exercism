@@ -85,3 +85,4 @@
 [Simple Cipher](.//)                         | Easy      |Jan 19,20    |
 [Matrix](./matrix/)                         | Easy      |Jan 20,2023    |
 [Allergies](./allergies/)                         | Easy      |Jan 21,2023    |
+[High Scores](./high-scores/)                         | Easy      |Jan 22,2023    |
