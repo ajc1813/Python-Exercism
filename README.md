@@ -82,7 +82,7 @@
 [D&D Character](.//)                         | Easy      |Jan 16,20    |
 [Roman Numerals](./roman-numerals/)                         | Easy      |Jan 17,2023    |
 [D&D Character](./dnd-character/)                         | Easy      |Jan 18,2023    |
-[Simple Cipher](.//)                         | Easy      |Jan 19,20    |
+[Simple Cipher](./simple-cipher/)                         | Easy      |Jan 19,2023    |
 [Matrix](./matrix/)                         | Easy      |Jan 20,2023    |
 [Allergies](./allergies/)                         | Easy      |Jan 21,2023    |
 [High Scores](./high-scores/)                         | Easy      |Jan 22,2023    |
