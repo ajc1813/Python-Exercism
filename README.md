@@ -89,3 +89,4 @@
 [Crypto Square](./crypto-square/)                         | Easy      |Jan 23,2023    |
 [Bottle Song](./bottle-song/)                         | Easy      |Jan 24,2023    |
 [Poker](./poker/)                         | Easy      |Jan 25,2023    |
+[Kindergarten Garden](./kindergarten-garden/)                         | Easy      |Jan 26,2023    |
