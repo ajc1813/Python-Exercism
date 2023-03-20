@@ -91,3 +91,4 @@
 [Poker](./poker/)                         | Easy      |Jan 25,2023    |
 [Kindergarten Garden](./kindergarten-garden/)                         | Easy      |Jan 26,2023    |
 [Saddle Points](.//)                         | Easy      |Jan 27,20    |
+[Robot Simulator](./robot-simulator/)                         | Easy      |Jan 28,2023    |
