@@ -90,5 +90,5 @@
 [Bottle Song](./bottle-song/)                         | Easy      |Jan 24,2023    |
 [Poker](./poker/)                         | Easy      |Jan 25,2023    |
 [Kindergarten Garden](./kindergarten-garden/)                         | Easy      |Jan 26,2023    |
-[Saddle Points](./saddle-points/)                         | Easy      |Jan 27,20    |
+[Saddle Points](./saddle-points/)                         | Easy      |Jan 27,2023    |
 [Robot Simulator](./robot-simulator/)                         | Easy      |Jan 28,2023    |
