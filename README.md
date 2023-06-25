@@ -93,3 +93,4 @@
 [Saddle Points](./saddle-points/)                         | Easy      |Jan 27,2023    |
 [Robot Simulator](./robot-simulator/)                         | Easy      |Jan 28,2023    |
 [Rectangles](./rectangles/)                         | Easy      |Jan 29,2023    |
+[Sieve](./sieve/)                         | Easy      |Jan 30,2023    |
