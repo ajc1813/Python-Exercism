@@ -79,7 +79,7 @@
 [Diamond](./diamond/)                         | Easy      |Jan 13,2023    | 
 [Transpose](./transpose/)                         | Easy      |Jan 14,2023    | 
 [Prime Factors](./prime-factors/)                         | Easy      |Jan 15,2023    | 
-[D&D Character](.//)                         | Easy      |Jan 16,20    |
+[Resistor Color Expert](./resistor-color-expert/)                         | Easy      |Jan 16,2023    |
 [Roman Numerals](./roman-numerals/)                         | Easy      |Jan 17,2023    |
 [D&D Character](./dnd-character/)                         | Easy      |Jan 18,2023    |
 [Simple Cipher](./simple-cipher/)                         | Easy      |Jan 19,2023    |
