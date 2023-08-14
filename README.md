@@ -96,3 +96,4 @@
 [Sieve](./sieve/)                         | Easy      |Jan 30,2023    |
 [Grade School](./grade-school/)                         | Easy      |Jan 31,2023    |
 [Circular Buffer](./circular-buffer/)                         | Easy      |Feb 1,2023    |
+[Clock](./clock/)                         | Easy      |Feb 2,2023    |
