@@ -97,3 +97,4 @@
 [Grade School](./grade-school/)                         | Easy      |Jan 31,2023    |
 [Circular Buffer](./circular-buffer/)                         | Easy      |Feb 1,2023    |
 [Clock](./clock/)                         | Easy      |Feb 2,2023    |
+[OCR Numbers](./ocr-numbers/)                         | Easy      |Feb 3,2023    |
