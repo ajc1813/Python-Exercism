@@ -98,3 +98,4 @@
 [Circular Buffer](./circular-buffer/)                         | Easy      |Feb 1,2023    |
 [Clock](./clock/)                         | Easy      |Feb 2,2023    |
 [OCR Numbers](./ocr-numbers/)                         | Easy      |Feb 3,2023    |
+[Pythagorean Triplet](./pythagorean-triplet/)                         | Easy      |Feb 4,2023    |
