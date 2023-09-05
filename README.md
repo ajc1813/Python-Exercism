@@ -99,3 +99,4 @@
 [Clock](./clock/)                         | Easy      |Feb 2,2023    |
 [OCR Numbers](./ocr-numbers/)                         | Easy      |Feb 3,2023    |
 [Pythagorean Triplet](./pythagorean-triplet/)                         | Easy      |Feb 4,2023    |
+[Simple Linked List](./simple-linked-list/)                         | Easy      |Feb 5,2023    |
