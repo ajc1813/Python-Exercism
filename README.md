@@ -101,3 +101,4 @@
 [Pythagorean Triplet](./pythagorean-triplet/)                         | Easy      |Feb 4,2023    |
 [Simple Linked List](./simple-linked-list/)                         | Easy      |Feb 5,2023    |
 [Tree Building](./tree-building/)                         | Easy      |Feb 6,2023    |
+[Connect](./connect/)                         | Easy      |Feb 7,2023    |
