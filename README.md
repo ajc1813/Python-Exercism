@@ -102,3 +102,4 @@
 [Simple Linked List](./simple-linked-list/)                         | Easy      |Feb 5,2023    |
 [Tree Building](./tree-building/)                         | Easy      |Feb 6,2023    |
 [Connect](./connect/)                         | Easy      |Feb 7,2023    |
+[All Your Base](./all-your-base/)                         | Medium      |Feb 8,2023    |
