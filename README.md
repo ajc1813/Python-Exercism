@@ -103,3 +103,4 @@
 [Tree Building](./tree-building/)                         | Easy      |Feb 6,2023    |
 [Connect](./connect/)                         | Easy      |Feb 7,2023    |
 [All Your Base](./all-your-base/)                         | Medium      |Feb 8,2023    |
+[Minesweeper](./minesweeper/)                         | Medium      |Feb 9,2023    |
