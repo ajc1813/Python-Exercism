@@ -104,3 +104,4 @@
 [Connect](./connect/)                         | Easy      |Feb 7,2023    |
 [All Your Base](./all-your-base/)                         | Medium      |Feb 8,2023    |
 [Minesweeper](./minesweeper/)                         | Medium      |Feb 9,2023    |
+[Pop Count](./pop-count/)                         | Medium      |Feb 10,2023    |
