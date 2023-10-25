@@ -105,3 +105,4 @@
 [All Your Base](./all-your-base/)                         | Medium      |Feb 8,2023    |
 [Minesweeper](./minesweeper/)                         | Medium      |Feb 9,2023    |
 [Pop Count](./pop-count/)                         | Medium      |Feb 10,2023    |
+[Spiral Matrix](./spiral-matrix/)                         | Medium      |Feb 11,2023    |
