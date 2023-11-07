@@ -106,3 +106,4 @@
 [Minesweeper](./minesweeper/)                         | Medium      |Feb 9,2023    |
 [Pop Count](./pop-count/)                         | Medium      |Feb 10,2023    |
 [Spiral Matrix](./spiral-matrix/)                         | Medium      |Feb 11,2023    |
+[Plane Tickets](./plane-tickets/)                         | Medium      |Feb 12,2023    |
