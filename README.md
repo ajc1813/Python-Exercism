@@ -109,3 +109,4 @@
 [Plane Tickets](./plane-tickets/)                         | Medium      |Feb 12,2023    |
 [Variable Length Quantity](./variable-length-quantity/)                         | Medium      |Feb 13,2023    |
 [Change](./change/)                         | Medium      |Feb 14,2023    |
+[Killer Sudoku Helper](./killer-sudoku-helper/)                         | Medium      |Feb 15,2023    |
