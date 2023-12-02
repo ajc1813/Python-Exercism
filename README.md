@@ -108,3 +108,4 @@
 [Spiral Matrix](./spiral-matrix/)                         | Medium      |Feb 11,2023    |
 [Plane Tickets](./plane-tickets/)                         | Medium      |Feb 12,2023    |
 [Variable Length Quantity](./variable-length-quantity/)                         | Medium      |Feb 13,2023    |
+[Change](./change/)                         | Medium      |Feb 14,2023    |
