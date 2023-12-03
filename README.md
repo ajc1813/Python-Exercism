@@ -110,3 +110,4 @@
 [Variable Length Quantity](./variable-length-quantity/)                         | Medium      |Feb 13,2023    |
 [Change](./change/)                         | Medium      |Feb 14,2023    |
 [Killer Sudoku Helper](./killer-sudoku-helper/)                         | Medium      |Feb 15,2023    |
+[Rail Fence Cipher](./rail-fence-cipher/)                         | Medium      |Feb 16,2023    |
